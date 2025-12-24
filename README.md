@@ -1,7 +1,7 @@
 # Hi there, I'm Santiago Torterolo 👋
 ### Fraud Prevention & Risk Analyst | Fintech Specialist
 
-I specialize in detecting financial crime patterns, optimizing risk rules, and protecting payment ecosystems. Based in Erlangen, Germany 🇩🇪.
+I specialize in detecting financial crime patterns, optimizing risk rules, and protecting payment ecosystems. Currently based in Erlangen, Germany 🇩🇪.
 
 - 🔭 **I’m currently working on:** Advanced Graph Analysis for Money Laundering Detection.
 - 💼 **Professional Background:** 4+ years at Mercado Libre & Ingeniarte minimizing fraud loss.
@@ -10,27 +10,18 @@ I specialize in detecting financial crime patterns, optimizing risk rules, and p
     - **Visualization:** Tableau, Looker.
     - **Risk:** AML Compliance, Device Fingerprinting, Rule Backtesting.
 
+---
+
 #### 📂 Featured Portfolio Projects
+These projects simulate real-world fraud scenarios using public datasets, demonstrating end-to-end risk analysis.
+
 | Project | Type | Tech |
 | :--- | :--- | :--- |
-| [**The AML Network Hunter**](./link-to-repo-1) | Forensic Analysis | Python, NetworkX, Graph Theory |
-| [**SQL Rule Optimizer**](./link-to-repo-2) | Audit & Operations | SQL (SQLite), PaySim Dataset |
-| [**Fintech Risk Dashboard**](./link-to-repo-3) | Reporting | Tableau Public |
+| [**The AML Network Hunter**](https://github.com/santiago-torterolo/Fraud-Prevention-Portfolio/tree/main/01_Money_Laundering_Investigation) | Forensic Analysis | Python, NetworkX, Pandas |
+| [**SQL Rule Optimizer**](https://github.com/santiago-torterolo/Fraud-Prevention-Portfolio/tree/main/02_SQL_Fraud_Audit) | Audit & Operations | SQL (SQLite), PaySim Dataset |
+| [**Fintech Risk Dashboard**](https://github.com/santiago-torterolo/Fraud-Prevention-Portfolio/tree/main/03_Executive_Risk_Dashboard) | Reporting | Tableau Public |
+
+---
 
 [linkedin-badge]: https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/santiago-torterolo-5u
 [![LinkedIn][linkedin-badge]](https://linkedin.com/in/santiago-torterolo-5u)
-
-<!--
-**santiago-torterolo/santiago-torterolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
