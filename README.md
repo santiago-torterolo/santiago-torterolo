@@ -25,8 +25,7 @@ These projects simulate real-world fraud scenarios using public datasets, demons
 | [**The AML Network Hunter**](https://github.com/santiago-torterolo/Fraud-Prevention-Portfolio/tree/main/01_Money_Laundering_Investigation) | Forensic Analysis | Python, NetworkX, Pandas |
 | [**Athena Fraud Engine**](https://github.com/santiago-torterolo/Athena-Fraud-Detection) | ML & Behavioral Analysis | Python, XGBoost, SHAP, Streamlit |
 | [**SQL Rule Optimizer**](https://github.com/santiago-torterolo/Fraud-Prevention-Portfolio/tree/main/02_SQL_Fraud_Audit) | Audit & Operations | SQL (SQLite), PaySim Dataset |
-| [**Fintech Risk Dashboard**](https://github.com/santiago-torterolo/Fraud-Prevention-Portfolio/tree/main/03_Executive_Risk_Dashboard) | Executive Reporting | Tableau Public |
-| [**Fraud Prevention Projects**](https://github.com/santiago-torterolo/Fraud-Prevention-Projects) | Comprehensive Portfolio Collection | Multi-stack |
+| [**Fintech Risk Dashboard**](https://github.com/santiago-torterolo/Fraud-Prevention-Portfolio/tree/main/03_Executive_Risk_Dashboard) | Executive Reporting | Tableau Public 
 
 ---
 
