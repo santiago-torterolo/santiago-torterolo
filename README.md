@@ -10,7 +10,8 @@ I specialize in detecting financial crime patterns, optimizing risk rules, and p
     - **Databases:** DuckDB, Athena, BigQuery, SQLite.
     - **Machine Learning:** XGBoost, Scikit-learn (Isolation Forest), SHAP (Explainability).
     - **APIs & Dashboards:** Flask, Streamlit, Tableau, Looker.
-    - **Risk:** AML Compliance, Device Fingerprinting, Rule Backtesting, Anomaly Detection.
+    - **Risk:** AML Compliance, Device Fingerprinting, Rule Backtesting, Anomaly Detection, Behavioral Analytics.
+    - **ATO / Auth Security:** Session risk scoring, Login anomaly detection, MFA strategy, Velocity & bot signals.
 
 ---
 
@@ -20,12 +21,13 @@ These projects simulate real-world fraud scenarios using public datasets, demons
 | Project | Type | Tech |
 | :--- | :--- | :--- |
 | [**AML Transaction Monitoring Engine**](https://github.com/santiago-torterolo/aml-transaction-monitoring-engine) | Production-Ready Detection System | Python, DuckDB, SQL, scikit-learn, Flask, Streamlit |
+| [**ATO Risk Profiler**](https://github.com/santiago-torterolo/ATO-Risk-Profiler) | Account Takeover Risk & Behavioral Profiling | Python, Pandas, scikit-learn, Anomaly Detection, Device/Session Signals |
 | [**Blockchain Fraud Prevention**](https://github.com/santiago-torterolo/blockchain-fraud-prevention) | Crypto Transaction Analysis | Python, XGBoost, NetworkX, Web3.py, Solidity |
 | [**KYC EU Compliance**](https://github.com/santiago-torterolo/kyc-eu-compliance) | Regulatory Compliance & Automation | Python, eKYC, GDPR, AMLD6 |
 | [**The AML Network Hunter**](https://github.com/santiago-torterolo/Fraud-Prevention-Portfolio/tree/main/01_Money_Laundering_Investigation) | Forensic Analysis | Python, NetworkX, Pandas |
 | [**Athena Fraud Engine**](https://github.com/santiago-torterolo/Athena-Fraud-Detection) | ML & Behavioral Analysis | Python, XGBoost, SHAP, Streamlit |
 | [**SQL Rule Optimizer**](https://github.com/santiago-torterolo/Fraud-Prevention-Portfolio/tree/main/02_SQL_Fraud_Audit) | Audit & Operations | SQL (SQLite), PaySim Dataset |
-| [**Fintech Risk Dashboard**](https://github.com/santiago-torterolo/Fraud-Prevention-Portfolio/tree/main/03_Executive_Risk_Dashboard) | Executive Reporting | Tableau Public 
+| [**Fintech Risk Dashboard**](https://github.com/santiago-torterolo/Fraud-Prevention-Portfolio/tree/main/03_Executive_Risk_Dashboard) | Executive Reporting | Tableau Public |
 
 ---
 
@@ -37,6 +39,12 @@ These projects simulate real-world fraud scenarios using public datasets, demons
 - REST API for system integration (5 endpoints)
 - Interactive Streamlit dashboard for investigators
 - Achieves industry-optimal 0.0175% alert rate
+
+**ATO Risk Profiler** focuses on account takeover risk using behavioral + session signals:
+- Feature engineering on login/activity patterns (time-of-day, velocity, geo changes, device changes)
+- Unsupervised profiling to spot deviations vs. normal customer behavior
+- Risk scoring approach designed for step-up authentication / investigation queues
+- Investigator-friendly outputs (reason codes / contributing signals) for faster triage
 
 **Blockchain Fraud Prevention** detects illicit crypto transactions through:
 - Graph-based wallet clustering using NetworkX to trace fund flows across DeFi protocols
