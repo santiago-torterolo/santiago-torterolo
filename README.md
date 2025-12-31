@@ -93,5 +93,4 @@ These projects simulate real-world fraud scenarios using public datasets, demons
 
 ---
 
-[linkedin-badge]: [https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/santiago-torterolo-5u](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/santiago-torterolo-5u)
-[![LinkedIn][linkedin-badge]](https://linkedin.com/in/santiago-torterolo-5u)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/santiago-torterolo-5u)
