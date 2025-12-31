@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi there, I'm **Santiago Torterolo**  
-*Open to Work* | Fraud & Risk Analyst | Python Developer | Erlangen 🇩🇪
+*Open to Work* | Fraud & Risk Analyst
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -11,7 +11,7 @@
 
 **🔭 Currently working on:** Device Fingerprinting & Fraud Detection Systems  
 **🌱 Learning:** Advanced ML for Fraud Prevention  
-**📫 Reach me:** [LinkedIn](https://linkedin.com/in/santiago-torterolo-5u) | santiago@email.com
+**📫 Reach me:** [LinkedIn](https://linkedin.com/in/santiago-torterolo-5u) | santitorte05@email.com
 
 </div>
 
