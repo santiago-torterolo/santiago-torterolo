@@ -1,106 +1,97 @@
-<div align="center">
+# Hi there, I'm Santiago Torterolo 👋
+### Fraud Prevention & Risk Analyst | Fintech Specialist
 
-# 👋 Hi there, I'm **Santiago Torterolo**  
-*Open to Work* | Fraud & Risk Analyst
+I specialize in detecting financial crime patterns, optimizing risk rules, and protecting payment ecosystems. Currently based in Germany 🇩🇪.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-
-**🔭 Currently working on:** Device Fingerprinting & Fraud Detection Systems  
-**🌱 Learning:** Advanced ML for Fraud Prevention  
-**📫 Reach me:** [LinkedIn](https://linkedin.com/in/santiago-torterolo-5u) | santitorte05@email.com
-
-</div>
-
----
-
-## 🚀 **Featured Project**
-
-> **[FraudAnalyzer](https://github.com/YOUR_USERNAME/FraudAnalyzer)** – *Device Fingerprinting Fraud Detection Platform*
->
-> Built production-grade risk engine analyzing **800+ device fingerprints** & **200+ accounts** to detect organized fraud rings in real-time.
->
-> ✨ **Tech:** Python (Flask) • DuckDB (OLAP) • D3.js (Interactive Graphs) • Bootstrap  
-> 📊 **Impact:** 128 high-risk devices flagged • 94% GDPR compliant • Sub-second analytics
->
-> [![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME/FraudAnalyzer)
+- 🔭 **I'm currently working on:** Device Fingerprinting Fraud Detection Platform with real-time risk scoring & D3.js visualization.
+- 💼 **Professional Background:** 4+ years at Mercado Libre & Ingeniarte minimizing fraud loss.
+- 🛠 **Tech Stack:**
+    - **Analysis:** Python (Pandas, NumPy, NetworkX), SQL (Advanced Window Functions, CTEs).
+    - **Databases:** DuckDB, Athena, BigQuery, SQLite.
+    - **Machine Learning:** XGBoost, Scikit-learn (Isolation Forest), SHAP (Explainability).
+    - **APIs & Dashboards:** Flask, Streamlit, Tableau, Looker, **D3.js**.
+    - **Risk:** AML Compliance, **Device Fingerprinting**, Rule Backtesting, Anomaly Detection, Behavioral Analytics.
+    - **ATO / Auth Security:** Session risk scoring, Login anomaly detection, MFA strategy, Velocity & bot signals.
 
 ---
 
-## 📊 **Projects**
+#### 📂 Featured Portfolio Projects
+These projects simulate real-world fraud scenarios using public datasets, demonstrating end-to-end risk analysis.
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **[FraudAnalyzer](https://github.com/YOUR_USERNAME/FraudAnalyzer)** | 🛡️ Real-time Device Fingerprinting & Risk Scoring Engine with D3.js fraud ring visualization. Analyzes 800+ devices detecting 128 high-risk threats. | **Python, Flask, DuckDB, D3.js** [web:15] |
-| **[Previous Project 1]** | Description of your other project | Tech stack |
-| **[Previous Project 2]** | Description of your other project | Tech stack |
-
----
-
-## 🛠️ **Tech Stack**
-
-### 🌐 **Backend & APIs**
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" height="40"/>
-
-### 🗄️ **Databases & Analytics**
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/duckdb/duckdb-original.svg" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="40"/>
-
-### 📊 **Data Visualization**
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chartjs/chartjs-original.svg" height="40"/>
-
-### 🎨 **Frontend & UI**
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40"/> 
-
-### ☁️ **Cloud & DevOps**
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="40"/> 
+| Project | Type | Tech |
+|---------|------|------|
+| [**Device Fingerprinting Platform**](https://github.com/santiago-torterolo/FraudAnalyzer) | **Production-Ready Fraud Detection** | **Python, Flask, DuckDB, D3.js, Bootstrap** |
+| [**AML Transaction Monitoring Engine**](https://github.com/santiago-torterolo/aml-transaction-monitoring-engine) | Production-Ready Detection System | Python, DuckDB, SQL, scikit-learn, Flask, Streamlit |
+| [**ATO Risk Profiler**](https://github.com/santiago-torterolo/ATO-Risk-Profiler) | Account Takeover Risk & Behavioral Profiling | Python, Pandas, scikit-learn, Anomaly Detection, Device/Session Signals |
+| [**Blockchain Fraud Prevention**](https://github.com/santiago-torterolo/blockchain-fraud-prevention) | Crypto Transaction Analysis | Python, XGBoost, NetworkX, Web3.py, Solidity |
+| [**KYC EU Compliance**](https://github.com/santiago-torterolo/kyc-eu-compliance) | Regulatory Compliance & Automation | Python, eKYC, GDPR, AMLD6 |
+| [**The AML Network Hunter**](https://github.com/santiago-torterolo/Fraud-Prevention-Portfolio/tree/main/01_Money_Laundering_Investigation) | Forensic Analysis | Python, NetworkX, Pandas |
+| [**Athena Fraud Engine**](https://github.com/santiago-torterolo/Athena-Fraud-Detection) | ML & Behavioral Analysis | Python, XGBoost, SHAP, Streamlit |
+| [**SQL Rule Optimizer**](https://github.com/santiago-torterolo/Fraud-Prevention-Portfolio/tree/main/02_SQL_Fraud_Audit) | Audit & Operations | SQL (SQLite), PaySim Dataset |
+| [**Fintech Risk Dashboard**](https://github.com/santiago-torterolo/Fraud-Prevention-Portfolio/tree/main/03_Executive_Risk_Dashboard) | Executive Reporting | Tableau Public |
 
 ---
 
-## 📈 **GitHub Stats**
+#### 🎯 Project Highlights
 
-<div align="center">
-  <!-- Replace with your actual stats -->
-  ![Santiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
-</div>
+**Device Fingerprinting Platform** analyzes 800+ devices & 200 accounts in real-time:
+- Custom Risk Scoring Engine (15+ behavioral signals, 128 high-risk devices flagged = 16%)
+- **D3.js interactive force-directed graphs** revealing fraud rings (devices ↔ accounts)
+- DuckDB OLAP analytics (1,200 crossings, sub-second queries, 54.6 avg risk score)
+- GDPR-compliant (94%) with SHA-256 PII hashing & compliance dashboards
+- REST API + live threat feed with color-coded severity bars
+
+**AML Transaction Monitoring Engine** processes 6.3M transactions using:
+- 4 SQL-based fraud typology rules (Structuring, Velocity Abuse, Round Amounts, Beneficiary Rotation)
+- Isolation Forest ML algorithm for unsupervised anomaly detection
+- REST API for system integration (5 endpoints)
+- Interactive Streamlit dashboard for investigators
+- Achieves industry-optimal 0.0175% alert rate
+
+**ATO Risk Profiler** focuses on account takeover risk using behavioral + session signals:
+- Feature engineering on login/activity patterns (time-of-day, velocity, geo changes, device changes)
+- Unsupervised profiling to spot deviations vs. normal customer behavior
+- Risk scoring approach designed for step-up authentication / investigation queues
+- Investigator-friendly outputs (reason codes / contributing signals) for faster triage
+
+**Blockchain Fraud Prevention** detects illicit crypto transactions through:
+- Graph-based wallet clustering using NetworkX to trace fund flows across DeFi protocols
+- XGBoost classifier trained on Bitcoin transaction patterns identifying mixer services and scam wallets
+- Smart contract integration via Web3.py for real-time on-chain fraud flagging
+- Anomaly detection algorithms spotting suspicious velocity patterns and phishing campaigns
+- Chainalysis-style transaction scoring assigning risk levels to wallets and addresses
+
+**KYC EU Compliance** automates customer verification under European regulations:
+- eKYC document validation and identity verification workflows
+- GDPR-compliant data handling and privacy-by-design architecture
+- AMLD6 risk scoring and PEP/sanctions screening integration
+- Reduces manual review time by 70% while maintaining compliance standards
+
+**The AML Network Hunter** uncovers money laundering rings through:
+- Graph-based network analysis using NetworkX (500+ suspicious nodes)
+- Community detection algorithms to identify coordinated mule accounts
+- Visual forensic reports linking shell companies to beneficial owners
+- Pattern recognition for layering and integration schemes
+
+**Athena Fraud Engine** combines ML and behavioral analytics:
+- XGBoost classifier with 92% precision on synthetic fraud datasets
+- SHAP explainability for transparent risk decisions
+- Real-time scoring API processing 10K transactions/hour
+- Behavioral features: device fingerprinting, velocity checks, session anomalies
+
+**SQL Rule Optimizer** audits and tunes fraud detection logic:
+- Backtesting framework for 15+ production rules on PaySim dataset
+- False positive rate reduction from 12% to 3.5% through parameter tuning
+- Performance benchmarking: query execution time optimization (45% faster)
+- A/B test simulation for rule rollout impact analysis
+
+**Fintech Risk Dashboard** delivers executive-level visibility:
+- Real-time KPIs: fraud loss rate, approval rate, alert volume trends
+- Geo-heatmaps showing high-risk regions and merchant categories
+- Cohort analysis for chargeback patterns by payment method
+- Tableau Public interactive version for stakeholder sharing
 
 ---
 
-## 🏆 **Key Achievements**
-
-- **Fraud Detection:** Built Device Fingerprinting platform detecting 128 high-risk devices (16%) [file:1]
-- **Real-time Analytics:** DuckDB OLAP engine processing 1,200+ crossings with sub-second latency
-- **Data Visualization:** D3.js interactive graphs revealing fraud ring patterns instantly
-- **GDPR Compliance:** 94% compliance achieved with SHA-256 PII hashing implementation
-
----
-
-## 📫 **Connect with me**
-
-<div align="center">
-  <a href="https://linkedin.com/in/santiago-torterolo-5u">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:santiago@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=1&label=Profile%20views"/>
-  <p><i>Built with ❤️ from Germany 🇩🇪</i></p>
-</div>
+[linkedin-badge]: [https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/santiago-torterolo-5u](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/santiago-torterolo-5u)
+[![LinkedIn][linkedin-badge]](https://linkedin.com/in/santiago-torterolo-5u)
